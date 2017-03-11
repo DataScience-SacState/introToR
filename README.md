@@ -1,2 +1,6 @@
 # introToR
-A quick Jupyter notebook for an introduction to R
+Assorted R Tutorial materials
+
+ - [Tutorial](./tutorial.html)
+ - [Pop Quiz](./popquiz.html)
+ - [Pop Quiz Answers](./popquizanswers.html)
